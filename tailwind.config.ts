@@ -57,6 +57,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        ngo: {
+          green: "hsl(var(--ngo-green))",
+          "green-light": "hsl(var(--ngo-green-light))",
+          blue: "hsl(var(--ngo-blue))",
+          "blue-light": "hsl(var(--ngo-blue-light))",
+          yellow: "hsl(var(--ngo-yellow))",
+          "yellow-light": "hsl(var(--ngo-yellow-light))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
