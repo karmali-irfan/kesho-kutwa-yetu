@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // Replace this with your GitHub repo name
-const repoName = "keshokutwa-yetu";
+const repoName = "kesho-kutwa-yetu";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
