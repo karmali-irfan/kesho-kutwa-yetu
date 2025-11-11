@@ -16,7 +16,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/kesho-kutwa-yetu">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<About />} />
