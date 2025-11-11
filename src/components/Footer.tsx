@@ -26,7 +26,7 @@ const Footer = () => {
                   to="/"
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  Home irfan
+                  Home
                 </Link>
               </li>
               <li>
