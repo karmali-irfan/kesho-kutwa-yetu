@@ -92,7 +92,7 @@ const ProjectDetail = () => {
             </p>
           </div>
 
-          {/* The Cause */}
+          {/* Our Partner */}
           <div className="max-w-4xl mx-auto mb-20">
             <div className="bg-primary text-primary-foreground p-8 md:p-12 rounded-lg">
               <h2 className="text-3xl font-bold mb-6">Our Partner</h2>
