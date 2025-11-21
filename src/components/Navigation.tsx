@@ -23,7 +23,7 @@ const Navigation = ({ onDonateClick }: NavigationProps) => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="text-xl font-bold text-primary hover:text-primary/90 transition-colors">
-            KeshoKutwa Yetu
+            Kesho Kutwa Yetu
           </Link>
 
           {/* Desktop Navigation */}

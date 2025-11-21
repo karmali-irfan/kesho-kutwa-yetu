@@ -1,4 +1,4 @@
-name: Deploy KeshoKutwa Yetu to Github Pages
+name: Deploy Kesho Kutwa Yetu to Github Pages
 
 on:
   workflow_dispatch:

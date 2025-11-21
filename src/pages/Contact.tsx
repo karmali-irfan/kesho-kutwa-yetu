@@ -116,7 +116,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
                       <p className="text-muted-foreground">
-                        info@keshokutwayetu.org
+                        keshokutwayetu@gmail.com
                       </p>
                     </div>
                   </div>

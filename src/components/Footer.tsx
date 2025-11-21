@@ -9,7 +9,7 @@ const Footer = () => {
           {/* About */}
           <div>
             <h3 className="text-lg font-bold text-primary mb-4">
-              KeshoKutwa Yetu
+              Kesho Kutwa Yetu
             </h3>
             <p className="text-muted-foreground text-sm">
               Building a better tomorrow for communities in Tanzania through
@@ -61,7 +61,7 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>Tanzania</li>
-              <li>Email: info@keshokutwayetu.org</li>
+              <li>Email: keshokutwayetu@gmail.com</li>
               <li>Phone: +255 XXX XXX XXX</li>
             </ul>
           </div>
@@ -100,7 +100,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
           <p>
-            &copy; {new Date().getFullYear()} KeshoKutwa Yetu. All rights
+            &copy; {new Date().getFullYear()} Kesho Kutwa Yetu. All rights
             reserved.
           </p>
         </div>
