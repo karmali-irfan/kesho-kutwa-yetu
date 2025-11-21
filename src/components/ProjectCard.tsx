@@ -7,6 +7,7 @@ import {
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
+import { Link } from "react-router-dom";
 
 interface ProjectCardProps {
   title: string;
@@ -40,12 +41,12 @@ const ProjectCard = ({
         <CardDescription className="text-base">{description}</CardDescription>
       </CardHeader>
       <CardContent>
-        <a href={`projects/${slug}`} target="_blank" rel="noopener noreferrer">
+        <Link to={`/projects/${slug}`}>
           <Button variant="ghost" className="group">
             Learn More
             <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
           </Button>
-        </a>
+        </Link>
       </CardContent>
     </Card>
   );
