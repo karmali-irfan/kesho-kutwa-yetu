@@ -7,7 +7,7 @@ const CURRENT_PROJECTS = [
     title: "Samabaza Upendo",
     description: "Providing food to over 200 people in rural communities.",
     image: educationImage,
-    category: "DEVELOPMENT",
+    category: "EMERGENCY RELIEF",
     slug: "samabaza-upendo",
   },
 ];
